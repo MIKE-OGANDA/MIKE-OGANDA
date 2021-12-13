@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MIKE-OGANDA
+- 👀 I’m interested in data management
+- 🌱 I’m currently learning R programming language along with Python
+- 📫 How to reach me orangimike@gmail.com, or through LinkedIn www.linkedin.com/in/mike-orangi
